@@ -9,13 +9,13 @@ const Footer = () => {
       <div className="container">&copy;{new Date().getFullYear()} by Kenny 🔥🌌🌳🦝🚀 </div>
         <div className="text-center level-item">
           <a href="https://www.facebook.com/bootsnipp">
-            <i id="social-fb" className="fa fa-facebook-square fa-3x social"></i>
+            <i id="social-fb" className="fa-brands fa-facebook fa-3x social"></i>
           </a>
-          <a href="https://twitter.com/bootsnipp">
-            <i id="social-tw" className="fa fa-twitter-square fa-3x social"></i>
+          <a href="https://twitter.com">
+            <i id="social-tw" className="fa-brands fa-twitter fa-3x social"></i>
           </a>
-          <a href="https://plus.google.com/+Bootsnipp-page">
-            <i id="social-gp" className="fa fa-google-plus-square fa-3x social"></i>
+          <a href="https://plus.google.com">
+            <i id="social-gp" className="fa-brands fa-google-plus-square fa-3x social"></i>
           </a>
           <a href="https://github.com/kea6t">
             <i id="social-gh" className="fa-brands fa-github fa-3x social"></i>
